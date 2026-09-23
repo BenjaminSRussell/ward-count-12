@@ -646,3 +646,6 @@
 {"n":646,"kind":"bark","speaker":"Ada","moment":"push","line":"Ada: Hold the lamp at Last Light. Nobody past the south gutter. We push in 4 steps. Direct on the left lane, open."}
 {"n":647,"kind":"place","name":"Last Light south gutter","place_kind":"alley","dressing":"crates","speaker":"Bess","line":"Last Light south gutter. Bess keeps the lamp for the push. 5 steps, direct on the left lane, open."}
 {"n":648,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Last Light, south gutter. direct left open. 6 steps. The lamp stays for the push."}
+{"n":649,"kind":"bark","speaker":"Sam","moment":"push","line":"Sam: Hold the lamp at South stair. Nobody past the south gutter. We push in 7 steps. Direct on the left lane, open."}
+{"n":650,"kind":"place","name":"South stair south gutter","place_kind":"alley","dressing":"plywood","speaker":"Matt","line":"South stair south gutter. Matt keeps the lamp for the push. 8 steps, direct on the left lane, open."}
+{"n":651,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at South stair, south gutter. direct left open. 2 steps. The lamp stays for the push."}
