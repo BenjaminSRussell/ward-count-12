@@ -124,3 +124,6 @@
 {"n":124,"kind":"bark","speaker":"Lis","moment":"push","line":"Lis: Hold the shutter at Mall court. Nobody past the west stair. We push in 4 steps. Direct on the left lane, open."}
 {"n":125,"kind":"place","name":"Mall court west stair","place_kind":"alley","dressing":"plywood","speaker":"Nia","line":"Mall court west stair. Nia keeps the shutter for the push. 5 steps, direct on the left lane, open."}
 {"n":126,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Mall court, west stair. direct left open. 6 steps. The shutter stays for the push."}
+{"n":127,"kind":"bark","speaker":"June","moment":"push","line":"June: Hold the shutter at Mall court. Nobody past the west stair. We push in 7 steps. Direct on the left lane, open."}
+{"n":128,"kind":"place","name":"Mall court west stair","place_kind":"alley","dressing":"lamps","speaker":"Ivo","line":"Mall court west stair. Ivo keeps the shutter for the push. 8 steps, direct on the left lane, open."}
+{"n":129,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Mall court, west stair. direct left open. 2 steps. The shutter stays for the push."}
