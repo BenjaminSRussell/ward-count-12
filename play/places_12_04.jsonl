@@ -363,3 +363,6 @@
 {"n":363,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Clinic roof, west stair. direct left open. 5 steps. The awning stays for the push."}
 {"n":364,"kind":"bark","speaker":"Lis","moment":"push","line":"Lis: Hold the awning at Clinic roof. Nobody past the west stair. We push in 6 steps. Direct on the left lane, open."}
 {"n":365,"kind":"place","name":"Clinic roof west stair","place_kind":"alley","dressing":"plywood","speaker":"Nia","line":"Clinic roof west stair. Nia keeps the awning for the push. 7 steps, direct on the left lane, open."}
+{"n":366,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Clinic roof, west stair. direct left open. 8 steps. The awning stays for the push."}
+{"n":367,"kind":"bark","speaker":"June","moment":"push","line":"June: Hold the awning at Clinic roof. Nobody past the west stair. We push in 2 steps. Direct on the left lane, open."}
+{"n":368,"kind":"place","name":"Clinic roof west stair","place_kind":"alley","dressing":"lamps","speaker":"Ivo","line":"Clinic roof west stair. Ivo keeps the awning for the push. 3 steps, direct on the left lane, open."}
