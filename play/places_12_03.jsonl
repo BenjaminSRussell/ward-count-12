@@ -454,3 +454,6 @@
 {"n":454,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Mall court, west stair. direct left open. 6 steps. The crate stays for the push."}
 {"n":455,"kind":"bark","speaker":"June","moment":"push","line":"June: Hold the crate at Mall court. Nobody past the west stair. We push in 7 steps. Direct on the left lane, open."}
 {"n":456,"kind":"place","name":"Mall court west stair","place_kind":"alley","dressing":"barrels","speaker":"Ivo","line":"Mall court west stair. Ivo keeps the crate for the push. 8 steps, direct on the left lane, open."}
+{"n":457,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Mall court, west stair. direct left open. 2 steps. The crate stays for the push."}
+{"n":458,"kind":"bark","speaker":"Ada","moment":"push","line":"Ada: Hold the crate at Mall court. Nobody past the west stair. We push in 3 steps. Direct on the left lane, open."}
+{"n":459,"kind":"place","name":"Mall court west stair","place_kind":"alley","dressing":"hydrant","speaker":"Bess","line":"Mall court west stair. Bess keeps the crate for the push. 4 steps, direct on the left lane, open."}
