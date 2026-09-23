@@ -663,3 +663,6 @@
 {"n":663,"kind":"bark","speaker":"June","moment":"push","line":"June: Hold the badge door at South stair. Nobody past the south gutter. We push in 6 steps. Direct on the left lane, open."}
 {"n":664,"kind":"place","name":"South stair south gutter","place_kind":"alley","dressing":"hydrant","speaker":"Ivo","line":"South stair south gutter. Ivo keeps the badge door for the push. 7 steps, direct on the left lane, open."}
 {"n":665,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Cole","line":"Cole at South stair, south gutter. direct left open. 8 steps. The badge door stays for the push."}
+{"n":666,"kind":"bark","speaker":"Ada","moment":"push","line":"Ada: Hold the badge door at South stair. Nobody past the south gutter. We push in 2 steps. Direct on the left lane, open."}
+{"n":667,"kind":"place","name":"South stair south gutter","place_kind":"alley","dressing":"crates","speaker":"Bess","line":"South stair south gutter. Bess keeps the badge door for the push. 3 steps, direct on the left lane, open."}
+{"n":668,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Vic","line":"Vic at South stair, south gutter. direct left open. 4 steps. The badge door stays for the push."}
