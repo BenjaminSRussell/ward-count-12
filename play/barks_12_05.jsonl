@@ -496,3 +496,6 @@
 {"n":496,"kind":"place","name":"Mast yard east stair","place_kind":"alley","dressing":"barrels","speaker":"Ivo","line":"Mast yard east stair. Ivo keeps the crate for the push. 4 steps, direct on the left lane, open."}
 {"n":497,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Mast yard, east stair. direct left open. 5 steps. The crate stays for the push."}
 {"n":498,"kind":"bark","speaker":"Ada","moment":"push","line":"Ada: Hold the crate at Mast yard. Nobody past the east stair. We push in 6 steps. Direct on the left lane, open."}
+{"n":499,"kind":"place","name":"Mast yard east stair","place_kind":"alley","dressing":"hydrant","speaker":"Bess","line":"Mast yard east stair. Bess keeps the crate for the push. 7 steps, direct on the left lane, open."}
+{"n":500,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Mast yard, east stair. direct left open. 8 steps. The crate stays for the push."}
+{"n":501,"kind":"bark","speaker":"Sam","moment":"push","line":"Sam: Hold the crate at Last Light. Nobody past the east stair. We push in 2 steps. Direct on the left lane, open."}
