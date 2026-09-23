@@ -264,3 +264,6 @@
 {"n":264,"kind":"place","name":"Drydock south stair","place_kind":"alley","dressing":"hydrant","speaker":"Ivo","line":"Drydock south stair. Ivo keeps the hydrant for the push. 6 steps, direct on the left lane, open."}
 {"n":265,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Drydock, south stair. direct left open. 7 steps. The hydrant stays for the push."}
 {"n":266,"kind":"bark","speaker":"Ada","moment":"push","line":"Ada: Hold the hydrant at Drydock. Nobody past the south stair. We push in 8 steps. Direct on the left lane, open."}
+{"n":267,"kind":"place","name":"Drydock south stair","place_kind":"alley","dressing":"crates","speaker":"Bess","line":"Drydock south stair. Bess keeps the hydrant for the push. 2 steps, direct on the left lane, open."}
+{"n":268,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Drydock, south stair. direct left open. 3 steps. The hydrant stays for the push."}
+{"n":269,"kind":"bark","speaker":"Sam","moment":"push","line":"Sam: Hold the hydrant at High line. Nobody past the south stair. We push in 4 steps. Direct on the left lane, open."}
