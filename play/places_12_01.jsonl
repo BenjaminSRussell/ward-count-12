@@ -753,3 +753,6 @@
 {"n":753,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Cole","line":"Cole at the Lot, south gutter. direct left open. 6 steps. The rebar stays for the push."}
 {"n":754,"kind":"bark","speaker":"Ada","moment":"push","line":"Ada: Hold the rebar at the Lot. Nobody past the south gutter. We push in 7 steps. Direct on the left lane, open."}
 {"n":755,"kind":"place","name":"the Lot south gutter","place_kind":"alley","dressing":"plywood","speaker":"Bess","line":"the Lot south gutter. Bess keeps the rebar for the push. 8 steps, direct on the left lane, open."}
+{"n":756,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Vic","line":"Vic at the Lot, south gutter. direct left open. 2 steps. The rebar stays for the push."}
+{"n":757,"kind":"bark","speaker":"Sam","moment":"push","line":"Sam: Hold the rebar at Stockyard fence. Nobody past the south gutter. We push in 3 steps. Direct on the left lane, open."}
+{"n":758,"kind":"place","name":"Stockyard fence south gutter","place_kind":"alley","dressing":"lamps","speaker":"Matt","line":"Stockyard fence south gutter. Matt keeps the rebar for the push. 4 steps, direct on the left lane, open."}
