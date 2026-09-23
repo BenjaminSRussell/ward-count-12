@@ -673,3 +673,6 @@
 {"n":673,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Mast yard, east stair. direct left open. 5 steps. The badge door stays for the push."}
 {"n":674,"kind":"bark","speaker":"Ada","moment":"push","line":"Ada: Hold the badge door at Mast yard. Nobody past the east stair. We push in 6 steps. Direct on the left lane, open."}
 {"n":675,"kind":"place","name":"Mast yard east stair","place_kind":"alley","dressing":"plywood","speaker":"Bess","line":"Mast yard east stair. Bess keeps the badge door for the push. 7 steps, direct on the left lane, open."}
+{"n":676,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Mast yard, east stair. direct left open. 8 steps. The badge door stays for the push."}
+{"n":677,"kind":"bark","speaker":"Sam","moment":"push","line":"Sam: Hold the badge door at Last Light. Nobody past the east stair. We push in 2 steps. Direct on the left lane, open."}
+{"n":678,"kind":"place","name":"Last Light east stair","place_kind":"alley","dressing":"lamps","speaker":"Matt","line":"Last Light east stair. Matt keeps the badge door for the push. 3 steps, direct on the left lane, open."}
