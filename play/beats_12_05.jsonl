@@ -492,3 +492,6 @@
 {"n":492,"kind":"bark","speaker":"Lis","moment":"push","line":"Lis: Hold the crate at Mast yard. Nobody past the east stair. We push in 7 steps. Direct on the left lane, open."}
 {"n":493,"kind":"place","name":"Mast yard east stair","place_kind":"alley","dressing":"lamps","speaker":"Nia","line":"Mast yard east stair. Nia keeps the crate for the push. 8 steps, direct on the left lane, open."}
 {"n":494,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Mast yard, east stair. direct left open. 2 steps. The crate stays for the push."}
+{"n":495,"kind":"bark","speaker":"June","moment":"push","line":"June: Hold the crate at Mast yard. Nobody past the east stair. We push in 3 steps. Direct on the left lane, open."}
+{"n":496,"kind":"place","name":"Mast yard east stair","place_kind":"alley","dressing":"barrels","speaker":"Ivo","line":"Mast yard east stair. Ivo keeps the crate for the push. 4 steps, direct on the left lane, open."}
+{"n":497,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Mast yard, east stair. direct left open. 5 steps. The crate stays for the push."}
