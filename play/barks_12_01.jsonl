@@ -92,3 +92,6 @@
 {"n":92,"kind":"place","name":"Stockyard fence south gutter","place_kind":"alley","dressing":"crates","speaker":"Ivo","line":"Stockyard fence south gutter. Ivo keeps the hydrant for the push. 3 steps, direct on the left lane, open."}
 {"n":93,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Stockyard fence, south gutter. direct left open. 4 steps. The hydrant stays for the push."}
 {"n":94,"kind":"bark","speaker":"Ada","moment":"push","line":"Ada: Hold the hydrant at Stockyard fence. Nobody past the south gutter. We push in 5 steps. Direct on the left lane, open."}
+{"n":95,"kind":"place","name":"Stockyard fence south gutter","place_kind":"alley","dressing":"plywood","speaker":"Bess","line":"Stockyard fence south gutter. Bess keeps the hydrant for the push. 6 steps, direct on the left lane, open."}
+{"n":96,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Stockyard fence, south gutter. direct left open. 7 steps. The hydrant stays for the push."}
+{"n":97,"kind":"bark","speaker":"Sam","moment":"push","line":"Sam: Hold the hydrant at Mall court. Nobody past the south gutter. We push in 8 steps. Direct on the left lane, open."}
