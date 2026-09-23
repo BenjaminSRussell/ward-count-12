@@ -738,3 +738,6 @@
 {"n":738,"kind":"bark","speaker":"Ada","moment":"push","line":"Ada: Hold the radio coil at Ward gate. Nobody past the south gutter. We push in 4 steps. Direct on the left lane, open."}
 {"n":739,"kind":"place","name":"Ward gate south gutter","place_kind":"alley","dressing":"hydrant","speaker":"Bess","line":"Ward gate south gutter. Bess keeps the radio coil for the push. 5 steps, direct on the left lane, open."}
 {"n":740,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Ward gate, south gutter. direct left open. 6 steps. The radio coil stays for the push."}
+{"n":741,"kind":"bark","speaker":"Sam","moment":"push","line":"Sam: Hold the radio coil at Kessler alley. Nobody past the south gutter. We push in 7 steps. Direct on the left lane, open."}
+{"n":742,"kind":"place","name":"Kessler alley south gutter","place_kind":"alley","dressing":"crates","speaker":"Matt","line":"Kessler alley south gutter. Matt keeps the radio coil for the push. 8 steps, direct on the left lane, open."}
+{"n":743,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Kessler alley, south gutter. direct left open. 2 steps. The radio coil stays for the push."}
