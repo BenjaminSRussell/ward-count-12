@@ -393,3 +393,6 @@
 {"n":393,"kind":"bark","speaker":"Sam","moment":"push","line":"Sam: Hold the barrel at Drydock. Nobody past the east stair. We push in 6 steps. Direct on the left lane, open."}
 {"n":394,"kind":"place","name":"Drydock east stair","place_kind":"alley","dressing":"hydrant","speaker":"Matt","line":"Drydock east stair. Matt keeps the barrel for the push. 7 steps, direct on the left lane, open."}
 {"n":395,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Drydock, east stair. direct left open. 8 steps. The barrel stays for the push."}
+{"n":396,"kind":"bark","speaker":"Lis","moment":"push","line":"Lis: Hold the barrel at Drydock. Nobody past the east stair. We push in 2 steps. Direct on the left lane, open."}
+{"n":397,"kind":"place","name":"Drydock east stair","place_kind":"alley","dressing":"crates","speaker":"Nia","line":"Drydock east stair. Nia keeps the barrel for the push. 3 steps, direct on the left lane, open."}
+{"n":398,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Drydock, east stair. direct left open. 4 steps. The barrel stays for the push."}
