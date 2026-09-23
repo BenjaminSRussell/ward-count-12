@@ -390,3 +390,6 @@
 {"n":390,"kind":"place","name":"High line west stair","place_kind":"alley","dressing":"plywood","speaker":"Matt","line":"High line west stair. Matt keeps the barrel for the push. 5 steps, direct on the left lane, open."}
 {"n":391,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at High line, west stair. direct left open. 6 steps. The barrel stays for the push."}
 {"n":392,"kind":"bark","speaker":"Lis","moment":"push","line":"Lis: Hold the barrel at High line. Nobody past the west stair. We push in 7 steps. Direct on the left lane, open."}
+{"n":393,"kind":"place","name":"High line west stair","place_kind":"alley","dressing":"lamps","speaker":"Nia","line":"High line west stair. Nia keeps the barrel for the push. 8 steps, direct on the left lane, open."}
+{"n":394,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Reed","line":"Reed at High line, west stair. direct left open. 2 steps. The barrel stays for the push."}
+{"n":395,"kind":"bark","speaker":"June","moment":"push","line":"June: Hold the barrel at High line. Nobody past the west stair. We push in 3 steps. Direct on the left lane, open."}
