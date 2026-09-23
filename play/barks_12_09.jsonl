@@ -363,3 +363,6 @@
 {"n":363,"kind":"place","name":"Mast yard south stair","place_kind":"alley","dressing":"lamps","speaker":"Bess","line":"Mast yard south stair. Bess keeps the barrel for the push. 7 steps, direct on the left lane, open."}
 {"n":364,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Mast yard, south stair. direct left open. 8 steps. The barrel stays for the push."}
 {"n":365,"kind":"bark","speaker":"Sam","moment":"push","line":"Sam: Hold the barrel at Last Light. Nobody past the south stair. We push in 2 steps. Direct on the left lane, open."}
+{"n":366,"kind":"place","name":"Last Light south stair","place_kind":"alley","dressing":"barrels","speaker":"Matt","line":"Last Light south stair. Matt keeps the barrel for the push. 3 steps, direct on the left lane, open."}
+{"n":367,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Last Light, south stair. direct left open. 4 steps. The barrel stays for the push."}
+{"n":368,"kind":"bark","speaker":"Lis","moment":"push","line":"Lis: Hold the barrel at Last Light. Nobody past the south stair. We push in 5 steps. Direct on the left lane, open."}
