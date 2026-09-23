@@ -765,3 +765,6 @@
 {"n":765,"kind":"place","name":"Drydock south stair","place_kind":"alley","dressing":"plywood","speaker":"Nia","line":"Drydock south stair. Nia keeps the lamp for the push. 3 steps, direct on the left lane, open."}
 {"n":766,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Drydock, south stair. direct left open. 4 steps. The lamp stays for the push."}
 {"n":767,"kind":"bark","speaker":"June","moment":"push","line":"June: Hold the lamp at Drydock. Nobody past the south stair. We push in 5 steps. Direct on the left lane, open."}
+{"n":768,"kind":"place","name":"Drydock south stair","place_kind":"alley","dressing":"lamps","speaker":"Ivo","line":"Drydock south stair. Ivo keeps the lamp for the push. 6 steps, direct on the left lane, open."}
+{"n":769,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Drydock, south stair. direct left open. 7 steps. The lamp stays for the push."}
+{"n":770,"kind":"bark","speaker":"Ada","moment":"push","line":"Ada: Hold the lamp at Drydock. Nobody past the south stair. We push in 8 steps. Direct on the left lane, open."}
