@@ -217,3 +217,6 @@
 {"n":217,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Drydock, west stair. direct left open. 7 steps. The hydrant stays for the push."}
 {"n":218,"kind":"bark","speaker":"Ada","moment":"push","line":"Ada: Hold the hydrant at Drydock. Nobody past the west stair. We push in 8 steps. Direct on the left lane, open."}
 {"n":219,"kind":"place","name":"Drydock west stair","place_kind":"alley","dressing":"hydrant","speaker":"Bess","line":"Drydock west stair. Bess keeps the hydrant for the push. 2 steps, direct on the left lane, open."}
+{"n":220,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Drydock, west stair. direct left open. 3 steps. The hydrant stays for the push."}
+{"n":221,"kind":"bark","speaker":"Sam","moment":"push","line":"Sam: Hold the hydrant at High line. Nobody past the west stair. We push in 4 steps. Direct on the left lane, open."}
+{"n":222,"kind":"place","name":"High line west stair","place_kind":"alley","dressing":"crates","speaker":"Matt","line":"High line west stair. Matt keeps the hydrant for the push. 5 steps, direct on the left lane, open."}
