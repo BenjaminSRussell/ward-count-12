@@ -223,3 +223,6 @@
 {"n":223,"kind":"bark","speaker":"June","moment":"push","line":"June: Hold the hydrant at Clinic roof. Nobody past the north stair. We push in 2 steps. Direct on the left lane, open."}
 {"n":224,"kind":"place","name":"Clinic roof north stair","place_kind":"alley","dressing":"hydrant","speaker":"Ivo","line":"Clinic roof north stair. Ivo keeps the hydrant for the push. 3 steps, direct on the left lane, open."}
 {"n":225,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Clinic roof, north stair. direct left open. 4 steps. The hydrant stays for the push."}
+{"n":226,"kind":"bark","speaker":"Ada","moment":"push","line":"Ada: Hold the hydrant at Clinic roof. Nobody past the north stair. We push in 5 steps. Direct on the left lane, open."}
+{"n":227,"kind":"place","name":"Clinic roof north stair","place_kind":"alley","dressing":"crates","speaker":"Bess","line":"Clinic roof north stair. Bess keeps the hydrant for the push. 6 steps, direct on the left lane, open."}
+{"n":228,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Clinic roof, north stair. direct left open. 7 steps. The hydrant stays for the push."}
