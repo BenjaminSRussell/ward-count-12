@@ -943,3 +943,6 @@
 {"n":943,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at High line, south stair. direct left open. 6 steps. The rebar stays for the push."}
 {"n":944,"kind":"bark","speaker":"Lis","moment":"push","line":"Lis: Hold the rebar at High line. Nobody past the south stair. We push in 7 steps. Direct on the left lane, open."}
 {"n":945,"kind":"place","name":"High line south stair","place_kind":"alley","dressing":"plywood","speaker":"Nia","line":"High line south stair. Nia keeps the rebar for the push. 8 steps, direct on the left lane, open."}
+{"n":946,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Reed","line":"Reed at High line, south stair. direct left open. 2 steps. The rebar stays for the push."}
+{"n":947,"kind":"bark","speaker":"June","moment":"push","line":"June: Hold the rebar at High line. Nobody past the south stair. We push in 3 steps. Direct on the left lane, open."}
+{"n":948,"kind":"place","name":"High line south stair","place_kind":"alley","dressing":"lamps","speaker":"Ivo","line":"High line south stair. Ivo keeps the rebar for the push. 4 steps, direct on the left lane, open."}
